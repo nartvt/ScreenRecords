@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ScreenRecords</string>
+    <string name="permission_text">permission_text</string>
 </resources>
